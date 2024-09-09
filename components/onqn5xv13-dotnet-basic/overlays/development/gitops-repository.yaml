@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: onqn5xv13-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/onqn5xv13-dotnet-basic-gitops
